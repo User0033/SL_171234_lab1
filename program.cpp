@@ -8,9 +8,13 @@ void printMyName () {
 }
 
 void printMyIndex () {
-	//TODO
+	cout<<"171234";
 }
 
 int main () {
+<<<<<<< HEAD
 	printMyName();
+=======
+	printMyIndex();
+>>>>>>> bugFix2
 }
